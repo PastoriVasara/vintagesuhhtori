@@ -1,1 +1,284 @@
-# vintagesuhhtori
+# Mod Compatibility Report
+
+## Incompatible Mod Pairs
+
+- **All Classes** and **Combat Overhaul** appear to be incompatible
+  - Source: description, Confidence: medium
+  - Source: cross-reference, Confidence: medium
+- **Repairable Locust** and **Repairable Locust** appear to be incompatible
+  - Source: description, Confidence: medium
+  - Source: description, Confidence: medium
+- **Bullseye** and **Combat Overhaul** appear to be incompatible
+  - Source: cross-reference, Confidence: medium
+  - Source: description, Confidence: medium
+- **Warm Armor** and **Rustbound Magic** appear to be incompatible
+  - Source: description, Confidence: medium
+  - Source: cross-reference, Confidence: medium
+
+## Mods With Dependencies
+
+- **Fauna of the Stone Age: Machairodontinae** requires the following mods:
+  - Cats
+- **Fauna of the Stone Age: Pantherinae** requires the following mods:
+  - Cats
+- **Cats** requires the following mods:
+  - Fantasy NPC Common Library
+- **Meteoric Expansion** requires the following mods:
+  - Meteoric Expansion
+- **VS Village Aged Village Addon** requires the following mods:
+  - VS Village
+- **Wolf Taming** requires the following mods:
+  - Fantasy NPC Common Library
+- **Rivers** requires the following mods:
+  - Rivers
+- **VS Village Industrial Village Addon** requires the following mods:
+  - VS Village
+- **VS Village Tower Village Addon** requires the following mods:
+  - VS Village
+- **Exoskeletons** requires the following mods:
+  - Combat Overhaul
+- **XSkills new classes exp** requires the following mods:
+  - All Classes
+- **Level UP** requires the following mods:
+  - Level UP
+- **BetterRuins** requires the following mods:
+  - BetterRuins
+- **All Classes** requires the following mods:
+  - All Classes
+- **More Arrows** requires the following mods:
+  - Combat Overhaul
+- **Better Anthracite** requires the following mods:
+  - Better Anthracite
+- **Combat Overhaul: Armory** requires the following mods:
+  - Combat Overhaul
+- **Craftable High Fertility Soil** requires the following mods:
+  - Fauna of the Stone Age: Spheniscidae
+- **Wool 🙵 More** requires the following mods:
+  - Fauna of the Stone Age: Dinornithiformes Plus
+- **Alchemical Refinement** requires the following mods:
+  - Alchemical Refinement
+- **Debark** requires the following mods:
+  - Debark
+- **Dressmakers** requires the following mods:
+  - Config lib
+  - Wool 🙵 More
+- **Torch Holder Smithing Plus** requires the following mods:
+  - Torch Holder Smithing Plus
+- **Eternal Seraphim Backpacks** requires the following mods:
+  - Eternal Seraphim Backpacks
+- **Bullseye** requires the following mods:
+  - Overhaul lib
+- **Toolsmith** requires the following mods:
+  - Toolsmith
+  - Fauna of the Stone Age: Dinornithiformes Plus
+  - XSkills
+- **Tailor's Delight** requires the following mods:
+  - Expanded Matter
+  - Liquid Containers v1.3.1
+  - Tailor's Delight
+  - Fauna of the Stone Age: Dinornithiformes Plus
+- **Pelagus Winds** requires the following mods:
+  - Simple Wind Direction
+- **Pelagus: Simple Wind Direction** requires the following mods:
+  - Floral Zones: Mediterranean Region
+- **Millwright** requires the following mods:
+  - ImGui
+- **Warm Armor** requires the following mods:
+  - Warm Armor
+- **Bola** requires the following mods:
+  - Bola
+- **Cartwright´s Caravan** requires the following mods:
+  - Solid Iron Door
+- **Rust and Railroads Reborn! (Alpha)** requires the following mods:
+  - Status Hud Continued
+- **Medieval expansion** requires the following mods:
+  - Fantasy NPC Common Library
+- **Envelopes ✉️** requires the following mods:
+  - Envelopes ✉️
+- **Combat Overhaul** requires the following mods:
+  - Overhaul lib
+  - ImGui
+- **Art of Growing: Breeding Addon** requires the following mods:
+  - Art of Growing
+- **Substrate** requires the following mods:
+  - Mycodiversity
+- **Flowers** requires the following mods:
+  - Flowers
+- **Instruments** requires the following mods:
+  - Instruments
+- **Make Tea** requires the following mods:
+  - Make Tea
+- **Sausages** requires the following mods:
+  - Fantasy NPC Common Library
+- **Chicken Feed** requires the following mods:
+  - Chicken Feed
+- **Pig Feed** requires the following mods:
+  - Pig Feed
+- **Art of Cooking** requires the following mods:
+  - Core of Arts
+  - XSkills
+- **XSkills** requires the following mods:
+  - XSkills
+- **Art of Growing** requires the following mods:
+  - Core of Arts
+  - XSkills
+- **Bee Smoker** requires the following mods:
+  - Bee Smoker
+- **Sortable Storage** requires the following mods:
+  - ImGui
+- **Meltcaster** requires the following mods:
+  - Fantasy NPC Common Library
+- **Value Your Life** requires the following mods:
+  - Pet Hare
+- **NeverWinter** requires the following mods:
+  - Floral Zones: Caribbean Region
+  - NeverWinter
+- **ImGui** requires the following mods:
+  - ImGui
+- **More Piles** requires the following mods:
+  - Fantasy NPC Common Library
+- **BulkUX** requires the following mods:
+  - BulkUX
+- **Core of Arts** requires the following mods:
+  - XSkills
+- **Arts XSkills** requires the following mods:
+  - XSkills
+- **Simple HUD Clock** requires the following mods:
+  - Simple HUD Clock
+- **QP's Chisel Tools** requires the following mods:
+  - Fauna of the Stone Age: Iniidae Plus
+- **WebCartographer** requires the following mods:
+  - WebCartographer
+- **Rustbound Magic XSkills Compatibility** requires the following mods:
+  - XSkills
+- **silent story** requires the following mods:
+  - Fantasy NPC Common Library
+- **Config lib** requires the following mods:
+  - ImGui
+- **Bricklayers** requires the following mods:
+  - Bricklayers
+  - Expanded Matter
+- **Rustbound Magic** requires the following mods:
+  - Fantasy NPC Common Library
+- **Primitive Survival** requires the following mods:
+  - ImGui
+  - Primitive Survival
+  - Fauna of the Stone Age: Dinornithiformes Plus
+
+## Fully Compatible Mods
+
+These mods appear to be compatible with all other mods in your list:
+
+- Fantasy NPC Common Library
+- Elves (Fantasy NPC Series)
+- Kobolds (Fantasy NPC Series)
+- Goblins (Fantasy NPC Series)
+- Halflings (Fantasy NPC Series)
+- Fauna of the Stone Age: Iniidae Plus
+- Humans (Fantasy NPC Series)
+- Orcs (Fantasy NPC Series)
+- Fauna of the Stone Age: Felinae
+- Fauna of the Stone Age: Spheniscidae
+- Fauna of the Stone Age: Meiolaniidae
+- Fauna of the Stone Age: Vombatidae Plus
+- Fauna of the Stone Age: Viverridae Plus
+- Fauna of the Stone Age: Manidae
+- Fauna of the Stone Age: Cervinae
+- Fauna of the Stone Age: Elephantidae
+- Legacy of the Phanerozoic: Birds of Prey
+- Fauna of the Stone Age: Bovinae
+- Legacy of the Phanerozoic: Fused Body
+- Legacy of the Phanerozoic: Sailed Spine
+- Fauna of the Stone Age: Sirenia
+- Fauna of the Stone Age: Caninae
+- Legacy of the Phanerozoic: Long Neck
+- Fauna of the Stone Age: Dinornithiformes Plus
+- Fauna of the Stone Age: Rhinocerotidae
+- Fauna of the Stone Age: Casuariidae Plus
+- Legacy of the Phanerozoic: Horned Crown
+- Pet Hare
+- Pet Chicken
+- Continental World
+- Underground Mines Lite
+- Cuniculture
+- Legacy of the Phanerozoic: Tyrant King
+- Fauna of the Stone Age: Capreolinae
+- VS Quest
+- Ancient Dungeons (Th3Dungeon)
+- Sea Level Fix
+- Floral Zones: East Asiatic Region
+- Pet AI
+- Floral Zones: Mediterranean Region
+- Translocator Relocator
+- Floral Zones: Central Australian Region
+- Floral Zones: Cosmopolitan Region
+- Floral Zones: Neozeylandic Region
+- Floral Zones: Caribbean Region
+- Floral Zones: Cape Region
+- Vintage Engineering
+- Buffed Reed/Tule drops
+- Minerz - An additional miner class
+- Flee Exhaustion
+- Simple Smokey Chimneys
+- Some Disassembly Required
+- VS Village
+- KRPG Enchantment
+- Solid Iron Door
+- BlackSmith Enhancements
+- Clayworks
+- Banners
+- Simple Wind Direction
+- Alchemy
+- Boat Speed
+- SpeedBoat
+- Canoe Mod
+- Liquid Containers v1.3.1
+- More Lanterns
+- Smithing Plus
+- Joy of Sailing
+- Food Shelves
+- Bushmeat Recipe
+- Mycodiversity
+- Hares drop bushmeat.
+- Real Grapes
+- Aging Barrels
+- Tabletop Games
+- Apotheosis Clutter Things
+- Pipeleaf
+- Improved Mining Speed of Cracked Rock
+- Rhim's Horns
+- Dressed to Kill
+- Flour Bags
+- Joy of Painting
+- Fast Honey Squeeze
+- Improved Ladders
+- Squeeze Honey Combs Into Barrels
+- Decor Bazaar
+- Bloody Story
+- Lanterns Are Lighters
+- Stone Tablets
+- Stone Age Drystone
+- Sleep Vote
+- An AFK Story
+- 8x Backpack Capacity
+- Animal cages
+- RepairMe
+- StepUp Advanced
+- Scarecrow
+- Better Firepit
+- Craftable Cartography - Classics
+- Temperature Height Tweak
+- Craftable Cartography
+- Edenval RP - Economy
+- Conquest VS Edition
+- Medieval Brutality Server Pack
+- A Culinary Artillery 1.2.5
+- ZeroTweaks
+- NinasPatches
+- Status Hud Continued
+- Radial Menu
+- ViSST Server Tool
+- Overhaul lib
+- Th3Essentials
+- Expanded Foods 1.7.4
+- Expanded Matter
